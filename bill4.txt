@@ -1,0 +1,3 @@
+Order{orderId = 4, clientId = 2, date = Wed May 11 15:23:00 EEST 2022, totalPrice = 13.0} consists of:
+[MenuItem{title = Cauliflower-Leek Purée , rating = 3.125, calories = 23, protein = 2, fat = 0, sodium = 149, price = 13.0, nrOfOrders = 2}]
+Total price: 13.0
